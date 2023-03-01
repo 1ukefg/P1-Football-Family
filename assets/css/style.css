@@ -13,7 +13,7 @@ body {
 }
 
 .wrapper {
-    background: url(https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg) no-repeat;
+    background: url(https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg) center center no-repeat fixed;
     background-size: cover;
     background-color: black;
     height: 100vh;
@@ -54,4 +54,16 @@ a h1 {
     font-size: 200%;
     text-decoration: none;
     color: white;
+}
+
+footer {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
 }
