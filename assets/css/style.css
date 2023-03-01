@@ -12,12 +12,46 @@ body {
     color: black;
 }
 
-#logo {
-    text-align: center;
-    font-size: 300%;
-    margin-top: 100px;
+.wrapper {
+    background: url(https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg) no-repeat;
+    background-size: cover;
+    background-color: black;
+    height: 100vh;
 }
 
-#menu {
+a h1 {
+    float: left;
+    line-height: 90px;
+    padding-left: 20px;
+}
+
+.navbar {
+    height: 100px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7) ;
+}
+
+.navbar ul {
     float: right;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 5px;
+    line-height: 90px;
+    padding-right: 20px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+#logo {
+    text-align: center;
+    font-size: 200%;
+    text-decoration: none;
+    color: white;
 }
