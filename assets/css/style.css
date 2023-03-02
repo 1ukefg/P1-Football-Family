@@ -13,7 +13,7 @@ body {
 }
 
 .wrapper {
-    background: url(https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg) center center no-repeat fixed;
+    background: url(../images/main-img.jpg) center center no-repeat fixed;
     background-size: cover;
     background-color: black;
     height: 100vh;
@@ -23,6 +23,11 @@ a h1 {
     float: left;
     line-height: 90px;
     padding-left: 20px;
+}
+
+i {
+    color: white;
+    padding-left: 10px;
 }
 
 .navbar {
@@ -56,6 +61,11 @@ a h1 {
     color: white;
 }
 
+#info-box {
+    margin: auto;
+    width: 50%;
+}
+
 footer {
     background-color: black;
     height: 100px;
@@ -64,6 +74,18 @@ footer {
     text-align: center;
 }
 
-footer ul li {
+.icons {
+    text-align: center;
+}
+
+.icons > li {
     display: inline-block;
+}
+
+.icons i {
+    font-size: 150%;
+    padding: 0 10 0 10;
+    margin: 5%;
+    line-height: 90px;
+    justify-content: space-evenly;
 }
