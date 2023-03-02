@@ -62,8 +62,32 @@ i {
 }
 
 #info-box {
-    margin: auto;
+    color: white;
+    text-align: center;
+
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 0 auto;
+    margin-top: 400px;
     width: 50%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#info-box > h2 {
+    padding: 5px;
+    font-size: 200%;
+}
+
+#info-box > h3 {
+    padding: 5px;
+}
+
+#info-box button {
+    background-color: rgba(220, 41, 41, 0.7);
+    padding: 0.75rem;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 footer {
