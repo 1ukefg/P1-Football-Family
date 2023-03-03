@@ -32,6 +32,49 @@
                 </ul>
             </nav>
         </div>
+        <form class="about">
+            <fieldset>
+                <legend>About You</legend>
+                <div>
+                    <label for="fname">First Name</label>
+                    <input type="text" name="first_name" placeholder="Your First Name" required>
+                </div>
+                <div>
+                    <label for="lname">Last Name</label>
+                    <input type="text" name="last_name" placeholder="Your Last Name" required>
+                </div>
+                <div>
+                    <label for="email">Email Address</label>
+                    <input type="email" name="email_address" placeholder="Your Email Address" required>
+                </div>
+                <div>
+                    <label for="age">Age Group</label>
+                    <select name="age" id="">
+                        <option value="7-8">7-8</option>
+                        <option value="8-9">8-9</option>
+                        <option value="9-10">9-10</option>
+                        <option value="10-11">10-11</option>
+                        <option value="11-12">11-12</option>
+                        <option value="12-13">12-13</option>
+                        <option value="13-14">13-14</option>
+                        <option value="14-15">14-15</option>
+                        <option value="15-16">15-16</option>
+                        <option value="16-17">16-17</option>
+                        <option value="17-18">17-18</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="gender">Gender</label><br>
+                    <input id="male" value="male" type="radio" name="gender" required>
+                    <label for="male">Male</label><br>
+                    <input id="female" value="male" type="radio" name="gender" required>
+                    <label for="female">Female</label><br>
+                    <input id="other" value="other" type="radio" name="gender" required>
+                    <label for="other">Other</label>
+                </div>
+                <input id="join" type="submit" value="Join">
+            </fieldset>
+        </form>
     </section>
     <footer>
         <ul class="icons">
