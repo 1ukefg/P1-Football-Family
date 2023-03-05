@@ -119,6 +119,25 @@ footer {
     justify-content: space-evenly;
 }
 
+.sessions {
+    text-align: center;
+    padding: 25px 0 0 0;
+    background-color: black;
+    color: white;
+}
+
+.sessions h1 {
+    font-size: 200%;
+}
+
+.details {
+    padding: 10px;
+}
+
+.details h2 {
+    padding: 10px;
+}
+
 .about {
     color: white;
     text-align: center;
@@ -139,21 +158,21 @@ footer {
     color: white;
 }
 
-.sessions {
-    text-align: center;
-    padding: 25px 0 0 0;
-    background-color: black;
+.text-input {
+    background: transparent;
+    color: white;
+    width: 200px;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid rgba(220, 41, 41);
+}
+
+#age {
+    background: transparent;
+    border: 1px solid rgba(220, 41, 41);
     color: white;
 }
 
-.sessions h1 {
-    font-size: 200%;
-}
-
-.details {
-    padding: 10px;
-}
-
-.details h2 {
-    padding: 10px;
+#gender {
+    padding: 0.75rem;
 }

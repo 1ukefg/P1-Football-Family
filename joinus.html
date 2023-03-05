@@ -24,32 +24,29 @@
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="#">Gallery</a>
-                    </li>
-                    <li>
                         <a href="joinus.html">Join Us</a>
                     </li>
                 </ul>
             </nav>
         </div>
-        <form class="about">
+        <form class="about" action="#" method="post">
             <fieldset>
-                <legend>About You</legend>
+                <h1>About You<i class="fa-solid fa-circle-info"></i></h1>
                 <div>
-                    <label for="fname">First Name</label>
-                    <input type="text" name="first_name" placeholder="Your First Name" required>
+                    <label for="firstname">First Name</label>
+                    <input type="text" name="first_name" placeholder="Your First Name" class="text-input" id="firstname" required>
                 </div>
                 <div>
-                    <label for="lname">Last Name</label>
-                    <input type="text" name="last_name" placeholder="Your Last Name" required>
+                    <label for="lastname">Last Name</label>
+                    <input type="text" name="last_name" placeholder="Your Last Name" class="text-input" id="lastname" required>
                 </div>
                 <div>
                     <label for="email">Email Address</label>
-                    <input type="email" name="email_address" placeholder="Your Email Address" required>
+                    <input type="email" name="email_address" placeholder="Your Email Address" class="text-input" id="email" required>
                 </div>
                 <div>
                     <label for="age">Age Group</label>
-                    <select name="age" id="">
+                    <select name="age" id="age">
                         <option value="7-8">7-8</option>
                         <option value="8-9">8-9</option>
                         <option value="9-10">9-10</option>
@@ -63,7 +60,7 @@
                         <option value="17-18">17-18</option>
                     </select>
                 </div>
-                <div>
+                <div id="gender">
                     <label for="gender">Gender</label><br>
                     <input id="male" value="male" type="radio" name="gender" required>
                     <label for="male">Male</label><br>
