@@ -90,6 +90,11 @@ i {
     margin-bottom: 10px;
 }
 
+#info-box a {
+    color: white;
+    text-decoration: none;
+}
+
 footer {
     background-color: black;
     height: 100px;
@@ -132,4 +137,23 @@ footer {
     margin-top: 30px;
     margin-bottom: 10px;
     color: white;
+}
+
+.sessions {
+    text-align: center;
+    padding: 25px 0 0 0;
+    background-color: black;
+    color: white;
+}
+
+.sessions h1 {
+    font-size: 200%;
+}
+
+.details {
+    padding: 10px;
+}
+
+.details h2 {
+    padding: 10px;
 }
