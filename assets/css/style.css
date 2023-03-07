@@ -174,10 +174,11 @@ footer {
 }
 
 #gender {
-    padding: 0.75rem;
+    padding: 0.75rem; 
     text-align: center;
 }
 
-#gender > h3 {
+#gender h3 {
     font-size: 16px;
+    font-weight: 300;
 }
