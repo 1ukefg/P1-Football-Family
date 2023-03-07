@@ -182,3 +182,13 @@ footer {
     font-size: 16px;
     font-weight: 300;
 }
+
+@media screen and (max-width: 700px) {
+    #logo {
+        font-size: 150%;
+    }
+
+    .navbar ul li {
+        padding-right: 20px;
+    }
+}
