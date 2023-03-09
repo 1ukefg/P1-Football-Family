@@ -113,7 +113,7 @@ footer {
 
 .icons i {
     font-size: 150%;
-    padding: 0 10 0 10;
+    padding: 0 10px 0 10px;
     margin: 5%;
     line-height: 90px;
     justify-content: space-evenly;
@@ -183,19 +183,26 @@ footer {
     font-weight: 300;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
     #logo {
-        font-size: 150%;
+        font-size: 90%;
     }
 
     .navbar ul li a {
         font-size: 12px;
     }
 
+    .about {
+        font-size: 80%;
+        width: 60%;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
     .navbar ul li {
         padding-right: 10px;
         margin: 0 auto;
-
     }
 
     .wrapper {
@@ -204,15 +211,10 @@ footer {
 
     #info-box, .about {
         margin-top: 250px;
+        font-size: 80%;
     }
 
     .about {
         padding: 10px;
-    }
-}
-
-@media screen and (max-width: 800px) {
-    .navbar ul li a {
-        font-size: 20px;
     }
 }
