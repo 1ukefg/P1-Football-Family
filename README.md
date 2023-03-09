@@ -5,8 +5,10 @@ All users of the website will be able to locate all of the the basic information
 
 ![Responsiveness](assets/images/am-i-responsive.png)
 
-##Features
+## Features
+
 -__Navigation Bar__
+
     -It is identical on each page, providing users an easy way to reach navigate their way around the website.
     -The scetion indclues the Logo which when clicked takes you to the home page, a further Home page link, a link to the Sessions Times on the home page and a Join Us page. As a result, the user should have no reason to use the 'back button' on their chosen browser.
 ![Navbar](assets/images/nav-bar.png)
