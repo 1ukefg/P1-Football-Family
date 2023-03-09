@@ -185,7 +185,7 @@ footer {
 
 @media screen and (max-width: 700px) {
     #logo {
-        font-size: 100%;
+        font-size: 150%;
     }
 
     .navbar ul li a {
