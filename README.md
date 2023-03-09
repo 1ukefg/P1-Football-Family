@@ -32,5 +32,12 @@ All users of the website will be able to locate all of the the basic information
 
     - The footer section includes links to Football Familys Twitter, Instagram and YouTube social media pages. When clicked, the link will open in a new tab for a better user experience.
     - The footer is also featured on each page of the website and allows the user to find images and information about Football Family that is not seen on the website.
+    - In future, contact information will be a great addition for the user to be able to find easily should they have and queries.
 
 ![Footer](assets/images/footer.png)
+
+- __Join Us Page__
+
+    - This page allows the user to sign up to the sessions provided and join Football Family. The user is asked to provide their full name and email address, which will be used as means of contact for Football Family. They are also asked to select their age group and gender so that they are entered into the correct sessions.
+
+![Joinus](assets/images/join-us.png)
