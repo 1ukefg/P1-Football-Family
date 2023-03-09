@@ -1,7 +1,7 @@
 # Football Family
 The Football Family website aims to help the children of London find cost free football training sessions. Football Family aims to be the home for football enthusastic children of ages 7 to 18 and help them nurture their talents and skills.
 
-All users of the website will be able to locate all of the the basic information that they need to know to get started via the introductury message on the home page, the session times, socail media links and a sign up form.
+All users of the website will be able to locate all of the basic information that they need to know to get started via the introductury message on the home page, the session times, socail media links and a sign up form.
 
 ![Responsiveness](assets/images/readme/am-i-responsive.png)
 
@@ -10,14 +10,14 @@ All users of the website will be able to locate all of the the basic information
 - __Navigation Bar__
 
     - It is identical on each page, providing users an easy way to reach navigate their way around the website.
-    - The scetion indclues the Logo which when clicked takes you to the home page, a further Home page link, a link to the Sessions Times on the home page and a Join Us page. As a result, the user should have no reason to use the 'back button' on their chosen browser.
+    - The section indclues the Logo which when clicked takes you to the home page, a further Home page link, a link to the Sessions Times on the home page and a Join Us page. As a result, the user should have no reason to use the 'back button' on their chosen browser.
 
 ![Navbar](assets/images/readme/nav-bar.png)
 
 - __Home Page Image and Greeting Information__
 
     - The home page presents a photograph of one of the 11-18's sessions to the user, giving them a small insight into what Football Family is all about.
-    - Placed infront of this image is a text overlay which presents the objective and applicable age groups of Footbal Family's service. Within this, there is also a button marked 'Join Us Here' which takes the user to the Join Us page on the website, without having to use the relevant section of the Navigation bar.
+    - Placed in front of this image is a text overlay which presents the objective and applicable age groups of Footbal Family's service. Within this, there is also a button marked 'Join Us Here' which takes the user to the Join Us page on the website, without having to use the relevant section of the Navigation bar.
 
 ![Homepage](assets/images/readme/home-page-img.png)
 
@@ -38,16 +38,16 @@ All users of the website will be able to locate all of the the basic information
 
 - __Join Us Page__
 
-    - This page allows the user to sign up to the sessions provided and join Football Family. The user is asked to provide their full name and email address, which will be used as means of contact for Football Family. They are also asked to select their age group and gender so that they are entered into the correct sessions.
+    - This page allows the user to sign up to the sessions provided and join Football Family. The user is asked to provide their full name and email address, which will be used as a means of contact for Football Family. They are also asked to select their age group and gender so that they are entered into the correct sessions.
 
 ![Joinus](assets/images/readme/join-us.png)
 
 ## Testing
 
 - I have tested that the website runs correctly on different browsers such as Chrome, Safari and Firefox
-- I have confrimed that the website is responsive, maintains a clean structure and funtions across most screen sizes. Screen sizes include desktops, tablets and modern smartphones. This was achieved by usng the developer tools in Google Chrome.
+- I have confirmed that the website is responsive, maintains a clean structure and functions across most screen sizes. Screen sizes include desktops, tablets and modern smartphones. This was achieved by using the developer tools in Google Chrome.
 - I confirmed that the Logo, Navigation Bar, Greeting information, Session Times and Join Us form text is visable and easy to read.
-- I confirmed that all of the links to social medai pages open and in a new tab.
+- I confirmed that all of the links to social media pages open and in a new tab.
 - I have tested and confirmed that the form works, requires an entry in each field, list and button. For the email entry, the form will not submit unless a valid email is entered.
 
 ## Fixed Bugs
@@ -68,7 +68,7 @@ All users of the website will be able to locate all of the the basic information
 
 - __The Second Bug__
 
-    - Another issue I have come across is with the page that is laoded after the data from the form is submitted. I am aware that there needs to be a 'http' within the action of the form element which is where the data is stored, however, I am unsure on how to create this. The page that is displayed once the form is completed can be seen below.
+    - Another issue I have come across is with the page that is loaded after the data from the form is submitted. I am aware that there needs to be a 'http' within the action of the form element which is where the data is stored, however, I am unsure on how to create this. The page that is displayed once the form is completed can be seen below.
 ![Bug3](assets/images/readme/bug-form.png)
 
 ## Validator Testing
