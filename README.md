@@ -21,3 +21,13 @@ All users of the website will be able to locate all of the the basic information
 
 ![Homepage](assets/images/home-page-img.png)
 
+- __Session Times Section__
+
+    - This section allows the user to find out the day, start and end time and age group of the session taking place. With its simple design, the user can easily find the information that applies to them.
+    - If a session is to be cancelled or the time changes due to adverse weather conditions or lack of staff availability, this section will be updated accordingly.
+
+![Sessiontimes](assets/images/session-times.png)
+
+- __Footer__
+
+    - 
