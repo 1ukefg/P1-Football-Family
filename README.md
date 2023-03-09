@@ -69,6 +69,7 @@ All users of the website will be able to locate all of the basic information tha
 - __The Second Bug__
 
     - Another issue I have come across is with the page that is loaded after the data from the form is submitted. I am aware that there needs to be a 'http' within the action of the form element which is where the data is stored, however, I am unsure on how to create this. The page that is displayed once the form is completed can be seen below.
+    
 ![Bug3](assets/images/readme/bug-form.png)
 
 ## Validator Testing
