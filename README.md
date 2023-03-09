@@ -83,3 +83,21 @@ All users of the website will be able to locate all of the the basic information
 - __Accessability__
     - I confirmed that the choice of colours and fonts are easy to read and accessible by running the code through liqghthouse in the Developer tools in Chrome.
     ![Lighthousescore](assets/images/readme/lighthouse-score.png)
+
+## Deployment
+
+- __The site was deployed via GitHub Pages. To do this youself you will need to:__
+    - Select the settings tab within the GitHub repository.
+    - Under the Code and automation section, select pages.
+    - Within the branch drop-dwon, select the 'main' branch and ensure that the /(root) folder is selected and press save.
+    - Once all of the above are completed, a link to the completed website was provided at the top of the page.
+    Here is the link: https://1ukefg.github.io/P1-Football-Family/
+
+## Credits
+
+- __Content__
+    - I have used the code structure from the Code Institutes Love Running sample project for the socail media links in the footer
+
+- __Media__
+    - The icons that are feature across the website are take from https://fontawesome.com/
+    - The background image that is featured on all of the pages on the website was taken from https://www.pexels.com/
