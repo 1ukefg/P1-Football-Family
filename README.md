@@ -11,5 +11,13 @@ All users of the website will be able to locate all of the the basic information
 
     - It is identical on each page, providing users an easy way to reach navigate their way around the website.
     - The scetion indclues the Logo which when clicked takes you to the home page, a further Home page link, a link to the Sessions Times on the home page and a Join Us page. As a result, the user should have no reason to use the 'back button' on their chosen browser.
-    
+
 ![Navbar](assets/images/nav-bar.png)
+
+- __Home Page Image and Greeting Information__
+
+    - The home page presents a photograph of one of the 11-18's sessions to the user, giving them a small insight into what Football Family is all about.
+    - Placed infront of this image is a text overlay which presents the objective and applicable age groups of Footbal Family's service. Within this, there is also a button marked 'Join Us Here' which takes the user to the Join Us page on the website, without having to use the relevant section of the Navigation bar.
+
+![Homepage](assets/images/home-page-img.png)
+
