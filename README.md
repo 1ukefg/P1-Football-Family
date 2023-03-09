@@ -30,4 +30,7 @@ All users of the website will be able to locate all of the the basic information
 
 - __Footer__
 
-    - 
+    - The footer section includes links to Football Familys Twitter, Instagram and YouTube social media pages. When clicked, the link will open in a new tab for a better user experience.
+    - The footer is also featured on each page of the website and allows the user to find images and information about Football Family that is not seen on the website.
+
+![Footer](assets/images/footer.png)
