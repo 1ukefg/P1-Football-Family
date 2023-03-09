@@ -41,3 +41,6 @@ All users of the website will be able to locate all of the the basic information
     - This page allows the user to sign up to the sessions provided and join Football Family. The user is asked to provide their full name and email address, which will be used as means of contact for Football Family. They are also asked to select their age group and gender so that they are entered into the correct sessions.
 
 ![Joinus](assets/images/join-us.png)
+
+## Testing
+
