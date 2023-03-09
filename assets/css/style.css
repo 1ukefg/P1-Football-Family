@@ -185,10 +185,34 @@ footer {
 
 @media screen and (max-width: 700px) {
     #logo {
-        font-size: 150%;
+        font-size: 100%;
+    }
+
+    .navbar ul li a {
+        font-size: 12px;
     }
 
     .navbar ul li {
-        padding-right: 20px;
+        padding-right: 10px;
+        margin: 0 auto;
+
+    }
+
+    .wrapper {
+        height: 150vh;
+    }
+
+    #info-box, .about {
+        margin-top: 250px;
+    }
+
+    .about {
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .navbar ul li a {
+        font-size: 20px;
     }
 }
